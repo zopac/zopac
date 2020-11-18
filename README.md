@@ -33,6 +33,4 @@ alternate github accounts - https://github.com/notzopac/, https:/github.com/free
 
 # thank you for listening to my ted talk
 
-im a manatee
-
-thank you for listening to my ted talk please leave the seating area so i can go do manatee stuff
+free da manatee
