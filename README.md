@@ -5,7 +5,7 @@ thank you for listening to my ted talk please leave the seating area so i can go
 
 # coding languages i know
 
-java (4-5 months) - look below for stuff ive made, have around 110 commits on the kami skid i made, couple commits on idea+ didnt make a ton of stuff but im decent at java from learning it over time
+java (4-5 months) - look below for stuff ive made, have around 110 commits on the kami skid i made, didnt make a ton of stuff but im decent at java from just learning it over time
 
 c++ (7-8 months) - made custom csgo injectors for a few people and mostly just made cheats/injectors for certain games
 
