@@ -21,6 +21,8 @@ manatee injector (c++) - https://github.com/freethemanatee/injector/
 
 made a few modules for catalyst (java) - https://github.com/krazzzzymonkey/catalyst/
 
+helped page64 with like 3 things for poophack
+
 # my contacts
 
 email - notzopac@gmail.com
