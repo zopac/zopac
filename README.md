@@ -3,7 +3,7 @@
 
 # coding languages i know
 
-java (been learning for 6-7 months) - look below for stuff ive made, have around 110 commits on the kami skid i made, didnt make a ton of stuff but im decent at java from just learning it over time
+java (been learning for around 6 months) - look below for stuff ive made, have around 110 commits on the kami skid i made, didnt make a ton of stuff but im decent at java from just learning it over time
 
 c++ (spent around 3 months learning/making random shit) - made custom csgo injectors for a few people and mostly just made cheats/injectors for certain games
 
