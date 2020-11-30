@@ -3,7 +3,7 @@
 
 # coding languages i know
 
-java (been learning for around 6 months) - look below for stuff ive made, have around 110 commits on the kami skid i made, didnt make a ton of stuff but im decent at java from just learning it over time
+java (been learning for around 5 months) - look below for stuff ive made, have around 110 commits on the kami skid i made, didnt make a ton of stuff but im decent at java from just learning it over time
 
 c++ (spent around 3 months learning/making random shit) - made custom csgo injectors for a few people and mostly just made cheats/injectors for certain games
 
@@ -19,15 +19,15 @@ manatee injector (c++) - https://github.com/freethemanatee/injector/
 
 made a few modules for catalyst (java) - https://github.com/krazzzzymonkey/catalyst/
 
-helped page64 with like 3 things for poophack
+poophack
 
 # my contacts
 
 email - notzopac@gmail.com
 
-discord - polish cow#9999
+discord - zopac#0001
 
-minecraft igns - zopac, freemanatee, ybh
+minecraft igns - zopac, freemanatee, ybh, totemshulker, 
 
 alternate github accounts - https://github.com/notzopac/, https:/github.com/freethemanatee/
 
