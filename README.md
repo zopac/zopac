@@ -25,7 +25,7 @@ discord - zopac#0001
 
 minecraft igns - zopac, freemanatee, ybh, totemshulker, 
 
-alternate github accounts - https://github.com/notzopac/, https:/github.com/freethemanatee/
+alternate github accounts - https://github.com/notzopac/, https://github.com/freethemanatee/
 
 # thank you for listening to my ted talk
 
