@@ -3,7 +3,9 @@
 
 i am java man
 
-# stuff ive worked on (note that most of the repos are still private)
+# stuff ive worked on
+
+(most repos are still private)
 
 manatee client (java) - https://github.com/freethemanatee/freemanatee-client/
 
