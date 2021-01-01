@@ -17,15 +17,13 @@ manatee injector (c++) - https://github.com/freethemanatee/injector/
 
 made a few modules for catalyst (java) - https://github.com/krazzzzymonkey/catalyst/
 
-poophack
-
 # my contacts
 
 email - notzopac@gmail.com
 
-discord - zopac#0001
+discord - zopac#2855
 
-minecraft igns - zopac, freemanatee, ybh, totemshulker, 
+minecraft igns - zopac, freemanatee, ybh, totemshulker, 0355
 
 alternate github accounts - https://github.com/notzopac/, https://github.com/freethemanatee/
 
