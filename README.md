@@ -1,4 +1,4 @@
-# hello im zopac
+# hello im zopac/3911
 ### bruh
 
 i am java man
@@ -23,7 +23,7 @@ email - notzopac@gmail.com
 
 discord - 3911#2855
 
-minecraft igns - zopac, freemanatee, ybh, totemshulker, 0355
+minecraft igns - 3911, freemanatee, ybh, totemshulker, mistamcddos
 
 alternate github accounts - https://github.com/notzopac/, https://github.com/freethemanatee/
 
