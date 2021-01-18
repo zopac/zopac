@@ -21,7 +21,7 @@ made a few modules for catalyst (java) - https://github.com/krazzzzymonkey/catal
 
 email - notzopac@gmail.com
 
-discord - zopac#2855
+discord - 3911#2855
 
 minecraft igns - zopac, freemanatee, ybh, totemshulker, 0355
 
