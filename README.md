@@ -20,7 +20,7 @@ email - notzopac@gmail.com
 
 discord - MMMCMXI#2855
 
-minecraft igns - 3911, freemanatee, ybh, totemshulker, mistamcddos
+minecraft igns - 3911, manateechan, verzweifelt, freemanatee, ybh
 
 alternate github accounts - https://github.com/notzopac/, https://github.com/freethemanatee/
 
