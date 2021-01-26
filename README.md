@@ -1,7 +1,4 @@
 # hello im zopac/3911
-### bruh
-
-i am java man
 
 # stuff ive worked on
 
@@ -21,7 +18,7 @@ made a few modules for catalyst (java) - https://github.com/krazzzzymonkey/catal
 
 email - notzopac@gmail.com
 
-discord - 3911#2855
+discord - MMMCMXI#2855
 
 minecraft igns - 3911, freemanatee, ybh, totemshulker, mistamcddos
 
