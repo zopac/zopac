@@ -16,7 +16,7 @@ made a few modules for catalyst - https://github.com/krazzzzymonkey/catalyst/
 
 email - notzopac@gmail.com
 
-discord - zopac#0001
+discord - zopac#6265
 
 minecraft igns - 3911, manateechan, freemanatee, ybh
 
@@ -24,4 +24,4 @@ alternate github accounts - https://github.com/notzopac/, https://github.com/fre
 
 # thank you for listening to my ted talk
 
-free da manatee
+man t
