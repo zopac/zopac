@@ -1,8 +1,8 @@
 # hello im zopac/3911
-
+most people still call me zopac but my actual mc ign is 3911 so ye
 # stuff ive worked on
 
-(most repos are still private)
+(most repos are still private dont bully me)
 
 manatee client - https://github.com/freethemanatee/freemanatee-client/
 
@@ -18,7 +18,7 @@ email - notzopac@gmail.com
 
 discord - zopac#6265
 
-minecraft igns - 3911, manateechan, freemanatee, ybh
+minecraft igns - 3911, freemanatee, ybh
 
 alternate github accounts - https://github.com/notzopac/, https://github.com/freethemanatee/
 
