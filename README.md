@@ -9,7 +9,8 @@ da tingy
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zopac&theme=dark&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zopac" alt="zopac" /> </p>
-(count started 5th of june 2021)
+profile view count started on 5th of june 2021
+
 # stuff ive worked on
 
 (most repos are still private dont bully me)
