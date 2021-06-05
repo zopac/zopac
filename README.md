@@ -9,7 +9,6 @@ da tingy
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zopac&theme=dark&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zopac" alt="zopac" /> </p>
-![](https://hit.yhype.me/github/profile?user_id=61770151)
 (count started 5th of june 2021)
 # stuff ive worked on
 
