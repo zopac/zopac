@@ -3,9 +3,7 @@ most people still call me zopac but my actual mc ign is 3911 so ye
 
 da tingy
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=zopac&show_icons=true&theme=dark)
-
-
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=zopac&show_icons=true&theme=dark)wa
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zopac&theme=dark&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zopac" alt="zopac" /> </p>
