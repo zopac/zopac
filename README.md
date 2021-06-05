@@ -4,8 +4,12 @@ most people still call me zopac but my actual mc ign is 3911 so ye
 da tingy
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=zopac&show_icons=true&theme=dark)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zopac&theme=dark&layout=compact)
-<br>![](https://hit.yhype.me/github/profile?user_id=61770151)
+
+
+![](https://hit.yhype.me/github/profile?user_id=61770151)
 (count started 5th of june 2021)
 # stuff ive worked on
 
