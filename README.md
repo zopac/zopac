@@ -18,8 +18,8 @@ https://github.com/zopac/bopis.club
 
 zori dev - 
 https://github.com/Novola/onpointie
-https://github.com/Novola/zori
-it was one of these he deleted the github i donr remember
+https://github.com/Novola/zoriclub
+<br>it was one of these he deleted the github i donr remember
 
 manatee client - 
 https://github.com/freethemanatee/freemanatee-client/
