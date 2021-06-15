@@ -13,19 +13,31 @@ profile view count started on 5th of june 2021
 
 (most repos are still private dont bully me)
 
-manatee client - https://github.com/freethemanatee/freemanatee-client/
+bopis.club -
+https://github.com/zopac/bopis.club
 
-idea+ - https://github.com/notzopac/ideaplus
+zori dev - 
+https://github.com/Novola/onpointie
+https://github.com/Novola/zori
+it was one of these he deleted the github i donr remember
 
-manatee client v2 (java) - https://github.com/zopac/manatee/
+manatee client - 
+https://github.com/freethemanatee/freemanatee-client/
 
-made a few modules for catalyst - https://github.com/krazzzzymonkey/catalyst/
+idea+ - 
+https://github.com/notzopac/ideaplus
+
+manatee client v2 (java) - 
+https://github.com/zopac/manatee/
+
+made a few modules for catalyst - 
+https://github.com/hi/catalyst/
 
 # my contacts
 
-email - notzopac@gmail.com
+email - realzopac@gmail.com
 
-discord - zopac#6265
+discord - zopac#0001
 
 minecraft igns - 3911, freemanatee, ybh
 
