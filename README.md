@@ -31,7 +31,7 @@ manatee client v2 (java) -
 https://github.com/zopac/manatee/
 
 made a few modules for catalyst - 
-https://github.com/hi/catalyst/
+https://github.com/Krazzzzymonkey/catalyst/
 
 # my contacts
 
