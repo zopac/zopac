@@ -46,3 +46,5 @@ alternate github accounts - https://github.com/notzopac/, https://github.com/fre
 # thank you for listening to my ted talk
 
 man t
+
+uid=zopac&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
